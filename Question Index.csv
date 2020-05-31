@@ -1,5 +1,8 @@
 Question Number,Title,Ruby
-1,Two Sum,X
-2,Two Numbers,X
-3,Longest Substring Without Repeating Characters,X
-7,Reverse Integer,X
+1,Two Sum,1
+2,Two Numbers,1
+3,Longest Substring Without Repeating Characters,1
+7,Reverse Integer,1
+9,Palindrome Number,1
+13,Roman to Integer,1
+14,Longest Common Prefix,1
