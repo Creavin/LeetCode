@@ -4,5 +4,7 @@ Question Number,Title,Ruby
 3,Longest Substring Without Repeating Characters,1
 7,Reverse Integer,1
 9,Palindrome Number,1
+12,Integer to Roman,1
 13,Roman to Integer,1
 14,Longest Common Prefix,1
+100,Same Tree,1
