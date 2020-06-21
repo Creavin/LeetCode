@@ -7,9 +7,11 @@ Question Number,Title,Ruby
 12,Integer to Roman,1
 13,Roman to Integer,1
 14,Longest Common Prefix,1
+46,Permutations, 1
 48,Rotate Image, 1
 49,Group Anagrams, 1
 50,Pow(x, n),1
 94,Binary Tree Inorder Traversal,1
+98,Validate Binary Tree,1
 100,Same Tree,1
 104,Maximum Depth of Binary Tree,1
