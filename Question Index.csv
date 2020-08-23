@@ -12,9 +12,10 @@ Question Number,Title,Ruby
 27,Remove Element,1
 28,Implement strStr(),1
 35,Search Insert Position,1
-46,Permutations, 1
-48,Rotate Image, 1
-49,Group Anagrams, 1
+38,Count and Say,1
+46,Permutations,1
+48,Rotate Image,1
+49,Group Anagrams,1
 50,Pow(x, n),1
 94,Binary Tree Inorder Traversal,1
 96,Unique Binary Search Trees,1
